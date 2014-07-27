@@ -4,3 +4,6 @@
 [submodule "etckeeper"]
 	path = etckeeper
 	url = https://github.com/thomasvandoren/puppet-etckeeper.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/puppetlabs/puppetlabs-postgresql.git
