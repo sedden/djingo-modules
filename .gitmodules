@@ -16,3 +16,6 @@
 [submodule "vcsrepo"]
 	path = vcsrepo
 	url = https://github.com/puppetlabs/puppetlabs-vcsrepo
+[submodule "bundler"]
+	path = bundler
+	url = https://github.com/puppetlabs-operations/puppet-bundler.git
