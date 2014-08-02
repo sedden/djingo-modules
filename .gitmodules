@@ -19,3 +19,6 @@
 [submodule "bundler"]
 	path = bundler
 	url = https://github.com/puppetlabs-operations/puppet-bundler.git
+[submodule "inifile"]
+	path = inifile
+	url = https://github.com/puppetlabs/puppetlabs-inifile
